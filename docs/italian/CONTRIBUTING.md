@@ -23,19 +23,19 @@ Applichiamo rigorosamente il nostro ["Codice di condotta"](https://www.freecodec
 
 Ti auguriamo un felice contributo 🎉!
 
-## Ecco alcuni modi divertenti che ci puoi aiutare
+## Ecco alcuni modi divertenti con cui poterci aiutare
 
 Puoi scegliere di contribuire a qualsiasi area che ti interessa:
 
-1. [Contribuirsci a questo codice open source.](#contribute-to-this-open-source-codebase). Aiuta a modificare gli [articoli guida](https://guide.freecodecamp.org/), [sfide di codifica](https://learn.freecodecamp.org/), o correggi i bug/errori sulla piattaforma di apprendimento.
+1. [Contribuisci a questo codice open source.](#contribute-to-this-open-source-codebase). Aiuta a modificare gli [articoli guida](https://guide.freecodecamp.org/), [sfide di codifica](https://learn.freecodecamp.org/), o correggi i bug/errori sulla piattaforma di apprendimento.
 
-2. Aiuta i coleghi sul nostro [forum pubblico](https://www.freecodecamp.org/forum/). [Rispondi alle loro domande di codifica](https://www.freecodecamp.org/forum/?max_posts=1) o [dai loro feedback sui loro progetti di codifica](https://www.freecodecamp.org/forum/c/project-feedback?max_posts=1)
+2. Aiuta i colleghi sul nostro [forum pubblico](https://www.freecodecamp.org/forum/). [Rispondi alle loro domande di codifica](https://www.freecodecamp.org/forum/?max_posts=1) o [dai loro feedback sui loro progetti di codifica](https://www.freecodecamp.org/forum/c/project-feedback?max_posts=1)
 
 3. Aiutaci a aggiungere i sottotitoli ai nostri [video del canale YouTube](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ/videos).
 
 ## Contribuisci a questo codice open source
 
-Abbiamo un enorme numero di codice open source delle migliaia di [sfide di codifica](https://learn.freecodecamp.org) e [articoli guida] (https://guide.freecodecamp.org).
+Abbiamo una quantità di codice open source molto vasta, migliaia di [sfide di codifica](https://learn.freecodecamp.org) e [articoli guida] (https://guide.freecodecamp.org).
 
 Puoi aiutarci:
 
@@ -47,7 +47,7 @@ Puoi aiutarci:
 
 - [🛠 Aiutaci a correggere i bug/errori nella piattaforma di apprendimento di freeCodeCamp.org](#help-us-fix-bugs-in-freecodecamporgs-learning-platform)
 
-###  Ricerca, scrivi e aggiorna i nostri articoli di guida
+###  Ricerca, scrivi e aggiorna i nostri articoli guida
 
 **Cosa sono gli articoli della Guida?**
 
@@ -67,9 +67,9 @@ Se vuoi contribuire a migliorare gli articoli della guida, ecco [come lavorare s
 
 ### Crea, aggiorna e correggi i bug/errori nelle nostre sfide di codifica
 
-Tutte le nostre sfide di codifica sono curate dalla comunità, portando la conoscenza di esperti da volontari come te.
+Tutte le nostre sfide di codifica sono curate dalla comunità, portando la conoscenza di esperti a volontari come te.
 
-Puoi aiutarli ad espanderli e rendere più chiara la loro formulazione. Puoi aggiornare le storie degli utenti per spiegare meglio il concetto e persino rimuovere quelli ridondanti/ripetitivi. È inoltre possibile migliorare i test di sfida per renderli più accurati negli test del codice delle persone.
+Puoi aiutarli ad espanderli e rendere più chiara la loro formulazione. Puoi aggiornare le storie degli utenti per spiegare meglio il concetto e persino rimuovere quelli ridondanti/ripetitivi. È inoltre possibile migliorare i test di sfida per renderli più accurati nei test del codice delle persone.
 
 Se sei interessato a migliorare queste chalenges di codifica, ecco [come lavorare sulle sfide di codifica](/docs/how-to-work-on-coding-challenges.md).
 
@@ -97,11 +97,11 @@ In linea di massima,
 - Un set di applicazioni client basate su React.
 - Uno script che usiamo per valutare i nostri progetti di Frontend.
 
-Contribuire a questo richiede una certa comprensione delle API, ES6 Sintassi e molta curiosità.
+Contribuire a questo richiede una certa comprensione delle API, della sintassi ES6 e molta curiosità.
 
-In sostanza, ci aspettiamo una certa familiarità di base, con alcune delle tecnologie, strumenti e librerie sopra citate. Detto questo, non è necessario che tu sia un esperto su di loro.
+In sostanza, ci aspettiamo una certa familiarità di base, con alcune delle tecnologie, strumenti e librerie sopra citate. Detto questo, non è necessario che tu sia un esperto.
 
-Sentiti libero di farci domande, sui relativi ai problemi, e saremo lieti di chiarire. In caso di dubbio, puoi raggiungere Mrugesh Mohapatra [`@raisedadead`](https://github.com/raisedadead) o Stuart Taylor [`@bouncey`](https://github.com/bouncey) dalla nostra piattaforma squadra dev per aiutarti con questo.
+Sentiti libero di farci domande e saremo lieti di schiarirti le idee. In caso di domande o dubbi, puoi raggiungere Mrugesh Mohapatra [`@raisedadead`](https://github.com/raisedadead) o Stuart Taylor [`@bouncey`](https://github.com/bouncey) dalla nostra piattaforma squadra dev per aiutarti con questo.
 
 Se vuoi aiutarci a migliorare il nostro codebase, ecco [come installare freeCodeCamp localmente](/docs/how-to-setup-freecodecamp-locally.md).
 
